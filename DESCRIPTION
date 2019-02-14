@@ -1,0 +1,10 @@
+Package: TAtheatreprofileMAIN
+Type: Package
+Title: Analytics Engine for Theatre Profile's Website
+Version: 1.0.0
+Author: Paul Pieniadz
+Maintainer: Paul Pieniadz <paul.pieniadz@tempusanalytics.co>
+Description: Does What It Says in the Title
+License: Tempus Analytics LLC
+Encoding: UTF-8
+LazyData: true
